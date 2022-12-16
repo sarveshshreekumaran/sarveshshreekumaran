@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarveshshreekumaran
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web technologis
+- 🌱 I’m currently learning web technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
